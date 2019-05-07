@@ -1,0 +1,16 @@
+com\qtpselenium\facebook\pom\pages\session\ProfilePage.class
+com\qtpselenium\facebook\pom\util\FBConstants.class
+com\qtpselenium\facebook\pom\mail\FileFilterDateIntervalUtils.class
+com\qtpselenium\facebook\pom\pages\LaunchPage.class
+com\qtpselenium\facebook\pom\util\DataUtil.class
+com\qtpselenium\facebook\pom\util\ExtentManager.class
+com\qtpselenium\facebook\pom\base\BasePage.class
+com\qtpselenium\facebook\pom\mail\SendMail.class
+com\qtpselenium\facebook\pom\util\Xls_Reader.class
+com\qtpselenium\facebook\pom\pages\session\settings\GeneralSettingsPage.class
+com\qtpselenium\facebook\pom\pages\common\TopMenu.class
+com\qtpselenium\facebook\pom\pages\session\LandingPage.class
+com\qtpselenium\facebook\pom\mail\SendMail$2.class
+com\qtpselenium\facebook\pom\mail\SendMail$1.class
+com\qtpselenium\facebook\pom\mail\Zip.class
+com\qtpselenium\facebook\pom\pages\LoginPage.class

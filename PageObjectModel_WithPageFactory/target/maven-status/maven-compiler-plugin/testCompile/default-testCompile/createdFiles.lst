@@ -1,0 +1,4 @@
+com\qtpselenium\facebook\pom\testcases\ProfileTest.class
+com\qtpselenium\facebook\pom\base\BaseTest.class
+com\qtpselenium\facebook\pom\testcases\ChangePasswordTest.class
+com\qtpselenium\facebook\pom\testcases\LoginTest.class
