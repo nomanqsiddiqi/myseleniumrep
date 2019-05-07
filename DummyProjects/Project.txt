@@ -1,1 +1,2 @@
-Hello git - updated 07-May-2019
+Hello git - updated 07-May-2019 
+Creating a new project
